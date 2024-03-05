@@ -14,6 +14,6 @@
     "assets": {
         "web.assets_backend": ["project_timeline_hr_timesheet/static/src/scss/*.scss"]
     },
-    "installable": True,
+    "installable": False,
     "auto_install": True,
 }
