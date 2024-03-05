@@ -23,4 +23,5 @@
             "/project_timeline/static/src/scss/project_timeline.scss"
         ]
     },
+    "installable": False
 }
