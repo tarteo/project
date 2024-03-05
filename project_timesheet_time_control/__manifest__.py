@@ -22,6 +22,6 @@
         "wizards/hr_timesheet_switch_view.xml",
     ],
     "license": "AGPL-3",
-    "installable": True,
+    "installable": False,
     "post_init_hook": "post_init_hook",
 }
