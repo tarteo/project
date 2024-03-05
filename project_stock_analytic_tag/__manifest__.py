@@ -13,4 +13,5 @@
         "views/project_task_view.xml",
     ],
     "maintainers": ["victoralmau"],
+    "installable": False
 }
