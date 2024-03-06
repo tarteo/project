@@ -1,7 +1,7 @@
 # Copyright 2014 Joël Grand-Guillaume (Camptocamp)
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
-    "name": "Project Department Categorization",
+    "name": "Project Department Categorization1",
     "version": "16.0.1.0.0",
     "author": "Camptocamp, Daniel Reis, Odoo Community Association (OCA)",
     "license": "AGPL-3",
